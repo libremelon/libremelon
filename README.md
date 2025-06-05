@@ -3,7 +3,7 @@
 </p>
 
 - I'm a first-year Computer Science & Engineering undergrad.  
-- I enjoy exploring and tinkering with code, tools, and ideas.  
+- I enjoy exploring and tinkering with stuff.
 - Familiar with Rust, HTML/CSS/JS, and Java.  
 - Currently learning C++ to dive into Qt/QML/Kirigami development (Konqi obsessed 🐲).  
 - Have similar goals? Reach out on Discord or Matrix - `@libremelon`  

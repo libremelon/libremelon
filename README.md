@@ -6,6 +6,6 @@ I'm a first-year Computer Science & Engineering undergrad.<br>
 Currently on an exploration spree - not tied to any specific domain (yet).
 
 **Familiar with:** Rust, HTML/CSS/JS, Java<br>
-**Learning:** C++ → Qt/QML/Kirigami (Konqi obsessed 🐉)
+**Learning:** C++ → Qt/QML/Kirigami
 
 Have similar goals? Feel free to reach out on Discord/Matrix → `@libremelon`

@@ -5,4 +5,4 @@
 about me @ [libremelon.com](https://libremelon.com)
 
 > [!IMPORTANT]
-> I'm moving over to Codeberg: https://codeberg.org/libremelon !!
+> I'm moving over to Codeberg: https://codeberg.org/libremelon
